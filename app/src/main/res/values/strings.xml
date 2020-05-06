@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Session_Management_Android</string>
+    <string name="log_in">Log In</string>
+    <string name="log_out">Log Out</string>
+</resources>
