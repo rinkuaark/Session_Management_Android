@@ -38,7 +38,7 @@ public class LoginActivity extends AppCompatActivity {
         ///1)log in to app and save session to user
         ///2)move to main activity
 
-        User user=new User(12,"ravi");
+        User user=new User(12,"Ram");
 
         SessionManagement sessionManagement=new SessionManagement(LoginActivity.this);
 
